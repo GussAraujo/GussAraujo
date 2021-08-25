@@ -2,7 +2,7 @@
 
 - 🔭 Hoje estou a procura de um trabalho...
 - 🌱 Estudo C# Asp.Net Core e .NET Framework...
-- ⚡ Programação por amor!!!
+- ⚡ Futuro Cientista da Computação!!!
 
 <br>
 <div>

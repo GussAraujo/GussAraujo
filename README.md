@@ -4,6 +4,7 @@
 - 🌱 Estudo C# Asp.Net Core e .NET Framework...
 - ⚡ Programação por amor!!!
 
+<br>
 <div>
   <a href="https://github.com/gussaraujo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gussaraujo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

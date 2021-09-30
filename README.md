@@ -1,7 +1,7 @@
 ### Olá, eu sou Gustavo Araújo!
 
 - 🔭 Hoje estou a procura de um trabalho...
-- 🌱 Estudo C# Asp.Net Core e .NET Framework...
+- 🌱 Desenvolvedor BackEnd (C# .Net, NodeJs e PHP)
 - ⚡ Futuro Cientista da Computação!!!
 
 <br>
@@ -17,6 +17,8 @@
   <img align="center" alt="Gus-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Gus-Csharp" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg'>
   <img align="center" alt="Gus-Csharp" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg'>
+  <img align="center" alt="Gus-Csharp" height="30" width="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg'>
+  <img align="center" alt="Gus-Csharp" height="30" width="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg'>
 </div>
 </br>
 </br>

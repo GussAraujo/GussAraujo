@@ -1,7 +1,7 @@
 ### Olá, eu sou Gustavo Araújo!
 
 - 🔭 Hoje estou a procura de um trabalho...
-- 🌱 Desenvolvedor BackEnd (Node Js, TypeScript, C# .Net e PHP)
+- 🌱 Desenvolvedor FullStack
 - ⚡ Futuro Engenheiro de Software!!!
 
 <br>
@@ -23,5 +23,4 @@
   <img align="center" alt="Gus-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Gus-Net" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg'>
   <img align="center" alt="Gus-DotNet" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg'>
-  <img align="center" alt="Gus-Php" height="30" width="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg'>
 </div>

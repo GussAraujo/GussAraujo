@@ -1,7 +1,7 @@
 ### Olá, eu sou Gustavo Araújo!
 
 - 🔭 Hoje estou a procura de um trabalho...
-- 🌱 Desenvolvedor FullStack
+- 🌱 Desenvolvedor Back-End
 - ⚡ Futuro Engenheiro de Software!!!
 
 <br>

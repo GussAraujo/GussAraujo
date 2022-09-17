@@ -1,6 +1,6 @@
 ### Olá, eu sou Gustavo Araújo!
 
-- 🌱 Desenvolvedor Back-End
+- 🌱 Desenvolvedor de Sotfware
 - 🎓 Estudante de Ciência da Computação
 
 <br>
